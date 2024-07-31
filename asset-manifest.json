@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zzihua/React.git/static/css/main.00035ee1.css",
+    "main.js": "/Zzihua/React.git/static/js/main.3d4741b1.js",
+    "static/js/453.3430075b.chunk.js": "/Zzihua/React.git/static/js/453.3430075b.chunk.js",
+    "index.html": "/Zzihua/React.git/index.html",
+    "main.00035ee1.css.map": "/Zzihua/React.git/static/css/main.00035ee1.css.map",
+    "main.3d4741b1.js.map": "/Zzihua/React.git/static/js/main.3d4741b1.js.map",
+    "453.3430075b.chunk.js.map": "/Zzihua/React.git/static/js/453.3430075b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00035ee1.css",
+    "static/js/main.3d4741b1.js"
+  ]
+}
