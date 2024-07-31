@@ -1,5 +1,6 @@
 {
   "name": "myproject",
+  "homepage": "https://zzihua.github.io/React_new/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.19.3",
     "formik": "^2.4.6",
+    "gh-pages": "^6.1.1",
     "i18next": "^23.12.2",
     "normalize.css": "^8.0.1",
     "qrcode.react": "^3.1.0",
@@ -28,6 +30,8 @@
     "yup": "^1.4.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
